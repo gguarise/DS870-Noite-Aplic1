@@ -26,6 +26,19 @@ var timesDB = {
             },
             folhaPagamento: 9999990,
         },
+        {
+            id: 3,
+            nome: "Teste",
+            cidade: "Cidade Teste",
+            estado: "Estado Teste",
+            serie: "C",
+            titulos: {
+                estadual: 4,
+                nacional: 1,
+                internacional: 0,
+            },
+            folhaPagamento: 6666660,
+        },
     ],
 };
 
