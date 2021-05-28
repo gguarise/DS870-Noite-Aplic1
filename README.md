@@ -2,6 +2,6 @@
 Exercício referente a tarefa 1 da semana 2.  
 
 Equipe:  
-Gabriel Felipe Pagoto  
-Giulia Guarise Gutierrez - GRR20184611  
-Raphael Pereira Rodrigues - GRR20184635  
+&ensp Gabriel Felipe Pagoto  
+&ensp Giulia Guarise Gutierrez - GRR20184611  
+&ensp Raphael Pereira Rodrigues - GRR20184635  
