@@ -1,0 +1,32 @@
+var timesDB = {
+    times: [
+        {
+            id: 1,
+            nome: "Time 01",
+            cidade: "Cidade Time 01",
+            estado: "Estado Time 01",
+            serie: "A",
+            titulos: {
+                estadual: 1,
+                nacional: 1,
+                internacional: 0,
+            },
+            folhaPagamento: 100000,
+        },
+        {
+            id: 2,
+            nome: "Time 02",
+            cidade: "Cidade Time 02",
+            estado: "Estado Time 02",
+            serie: "B",
+            titulos: {
+                estadual: 3,
+                nacional: 5,
+                internacional: 6,
+            },
+            folhaPagamento: 9999990,
+        },
+    ],
+};
+
+module.exports = timesDB;
